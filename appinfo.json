@@ -1,0 +1,19 @@
+{
+  "uuid": "8137f0a3-105b-4a2c-a78a-01dc82c54a69",
+  "shortName": "Mad Eye Moody",
+  "longName": "Mad Eye Moody",
+  "companyName": "SetPebble",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["chalk"],
+  "watchapp": { "watchface": true },
+  "appKeys": { "dummy": 0 },
+  "resources": {
+    "media": [
+      { "type": "png", "name": "PUPIL_BLUE", "file": "images/pupil-blue.png" },
+      { "type": "png", "name": "PUPIL_GREEN", "file": "images/pupil-green.png" },
+      { "type": "png", "name": "PUPIL_RED", "file": "images/pupil-red.png" },
+      { "type": "png", "name": "EYELID", "file": "images/eyelid.png" }
+    ]
+  }
+}
